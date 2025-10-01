@@ -1,5 +1,0 @@
-
-
-const JSX= <div>
-
-</div>;
